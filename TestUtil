@@ -3,3 +3,7 @@
 # This is a test util script, for the purposes of the basic getting started guide.
 
 # R.Thatcher 2013
+
+# Henry Rollins was 'ere.
+
+echo -e "A Henry Rollins edited this util script, not that it does anything useful...\n"
