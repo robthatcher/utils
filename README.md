@@ -1,7 +1,5 @@
-utils
+utils - general util or useful scripts and demos scripts
 =====
-
-Utility Code:
 
 TestUtil - Test demo script.
 
