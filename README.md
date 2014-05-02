@@ -1,6 +1,5 @@
-utils - general util or useful scripts and demos scripts
+utils - utility or useful scripts and demos
 =====
-
 TestUtil - Test demo script.
 
 df_backupandlog.sh - datafile backup script.
