@@ -1,7 +1,5 @@
-utils - utility or useful scripts and demos
+utils - utility scripts and demos
 =====
-TestUtil - Test demo script.
-
 df_backupandlog.sh - datafile backup script.
 df_backupandlog.conf - config file containing files to backup and write a log entry for.
 datafile0 - example datafile for out of box 'df_backupandlog' demo.
